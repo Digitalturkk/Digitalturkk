@@ -1,7 +1,7 @@
 - 👋 Salam, I’m @Digitalturkk
 - 👀 I’m interested in IT sphere at least for 5 years
 - 🌱 I’m currently learning CyberSecurity/Data Analysis
-- 🏫 I’m study IT at univesety  
+- 🏫 I’m study IT at university  
 - 📫 How to reach me (studentfaridhuseynov@gmail.com)
 
 <!---
