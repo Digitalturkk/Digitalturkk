@@ -1,4 +1,5 @@
 - 👋 Salam, I’m @Digitalturkk
+- 👨‍🏫 Python Instructor
 - 👀 I’m interested in IT sphere at least for 5 years
 - 🌱 I’m currently learning CyberSecurity/Data Analysis
 - 🏫 I’m study IT at university  
