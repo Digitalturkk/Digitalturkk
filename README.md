@@ -2,7 +2,7 @@
 - 👨‍🏫 Programming Instructor
 - 👀 I’m interested in IT sphere at least for 5 years
 - 🌱 I’m currently learning Backend/AI
-- 🏫 I’m study IT at university  
+- 🏫 I’m studying IT at university  
 - 📫 How to reach me (studentfaridhuseynov@gmail.com)
 
 <!---
