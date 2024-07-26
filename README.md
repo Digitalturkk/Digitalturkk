@@ -2,7 +2,8 @@
 - 👨‍🏫 Programming Instructor
 - 👀 I’m interested in IT sphere at least for 5 years 
 
-I'm student at UNEC🏦 /n
+I'm student at UNEC🏦
+
 Learning Java☕ and Python🐍 and will continue learning this for the reast of my life, as these languages are going to be only better!
 
 - 📫 How to reach me (studentfaridhuseynov@gmail.com)
