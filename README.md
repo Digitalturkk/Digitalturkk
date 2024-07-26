@@ -10,7 +10,7 @@ Learning Java☕ and Python🐍 and will continue learning this for the reast of
 
 How to reach me? 📫  (studentfaridhuseynov@gmail.com)
 
-![Alt text](i)
+![Alt text](b707417ac7f64421d3cdf57139d81c49.jpg)
 <!---
 Digitalturkk/Digitalturkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
