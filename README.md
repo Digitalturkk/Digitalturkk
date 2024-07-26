@@ -1,6 +1,6 @@
-- 👋 Salam, I’m @Digitalturkk
-- 👨‍🏫 Programming Instructor
-- 👀 I’m interested in IT sphere at least for 5 years 
+👋 Salam, I’m @Digitalturkk
+👨‍🏫 Programming Instructor
+👀 I’m interested in IT sphere at least for 5 years 
 
 I'm student at UNEC🏦
 
