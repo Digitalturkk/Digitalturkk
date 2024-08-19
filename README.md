@@ -6,18 +6,29 @@ I’m interested in IT sphere at least for 5 years 👀
 
 I'm student at UNEC🏦
 
+Backend Developer
+------------------------------------------------------------------
 Learning Java☕ and Python🐍 and will continue learning this for the reast of my life, as these languages are going to be only better!
-
-**Python libraries**:
-- math
-- numpy
-- pandas
-- datetime
-- requests
-- csv
+-----------------------------
+_**Skills:**_
+--------------------------------
+**Python libraries:**
+- Random
+- Math
+- NumPy
+- Pandas
+- DateTime
+- Requests
+- CSV
 - PyQt5
 - Tkinter
-
+------------------------------------
+**Java libraries:**
+- Scanner
+- Random
+------------------------------------
+**Data Bases:**
+-SQLlite
 
 How to reach me? 📫  (studentfaridhuseynov@gmail.com)
 
