@@ -28,7 +28,7 @@ _**Skills:**_
 - Random
 ------------------------------------
 **Data Bases:**
--SQLlite
+- SQLlite
 
 How to reach me? 📫  (studentfaridhuseynov@gmail.com)
 
