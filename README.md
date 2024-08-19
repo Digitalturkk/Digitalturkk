@@ -8,6 +8,17 @@ I'm student at UNEC🏦
 
 Learning Java☕ and Python🐍 and will continue learning this for the reast of my life, as these languages are going to be only better!
 
+**Python libraries**:
+- math
+- numpy
+- pandas
+- datetime
+- requests
+- csv
+- PyQt5
+- Tkinter
+
+
 How to reach me? 📫  (studentfaridhuseynov@gmail.com)
 
 ![Alt text](b707417ac7f64421d3cdf57139d81c49.jpg)
