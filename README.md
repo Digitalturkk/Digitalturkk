@@ -1,4 +1,4 @@
-Salam 👋, I’m @Digitalturkk
+<h2> Salam 👋, I’m @Digitalturkk </h2>
 
 Programming Instructor 👨‍🏫
 
@@ -6,12 +6,13 @@ I’m interested in IT sphere at least for 5 years 👀
 
 I'm student at UNEC🏦
 
-Backend Developer
-------------------------------------------------------------------
-Learning Java☕ and Python🐍 and will continue learning this for the reast of my life, as these languages are going to be only better!
------------------------------
+<h1>Backend Developer</h1>
+
+Working Java☕ and Python🐍
+=====================================
+
 _**Skills:**_
---------------------------------
+----------------------------
 **Python libraries:**
 - Random
 - Math
@@ -22,11 +23,13 @@ _**Skills:**_
 - CSV
 - PyQt5
 - Tkinter
+  
 ------------------------------------
 **Java libraries:**
 - Scanner
 - Random
 ------------------------------------
+
 **Data Bases:**
 - SQLlite
 
