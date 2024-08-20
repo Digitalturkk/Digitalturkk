@@ -35,7 +35,7 @@ _**Skills:**_
 
 How to reach me? 📫  (studentfaridhuseynov@gmail.com)
 
-![Alt text](b707417ac7f64421d3cdf57139d81c49.jpg)
+![Alt text](ataturk.jpg)
 <!---
 Digitalturkk/Digitalturkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
