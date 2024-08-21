@@ -8,7 +8,7 @@ I'm student at UNEC🏦
 
 <h1>Backend Developer</h1>
 
-Working Java☕ and Python🐍
+Working with Java☕ and Python🐍
 =====================================
 
 _**Skills:**_
