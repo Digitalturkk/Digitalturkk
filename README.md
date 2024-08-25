@@ -2,7 +2,7 @@
 
 Programming Instructor 👨‍🏫
 
-I’m interested in IT sphere at least for 5 years 👀 
+I’m interested in IT sphere at least for 6 years 👀 
 
 I'm student at UNEC🏦
 
