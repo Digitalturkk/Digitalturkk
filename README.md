@@ -31,7 +31,7 @@ _**Skills:**_
 ------------------------------------
 
 **Data Bases:**
-- SQLlite
+- SQLite
 
 How to reach me? 📫  (studentfaridhuseynov@gmail.com)
 
