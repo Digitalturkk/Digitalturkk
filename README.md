@@ -32,6 +32,7 @@ _**Skills:**_
 
 **Data Bases:**
 - SQLite
+- PostgreSQL
 
 How to reach me? 📫  (studentfaridhuseynov@gmail.com)
 
