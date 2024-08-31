@@ -28,6 +28,7 @@ _**Skills:**_
 **Java libraries:**
 - Scanner
 - Random
+- FileReader
 ------------------------------------
 
 **Data Bases:**
