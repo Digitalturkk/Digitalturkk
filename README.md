@@ -29,6 +29,7 @@ _**Skills:**_
 - Scanner
 - Random
 - FileReader
+- FileWriter
 ------------------------------------
 
 **Data Bases:**
