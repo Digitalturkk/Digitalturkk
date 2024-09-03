@@ -28,8 +28,8 @@ _**Skills:**_
 **Java skills:**
 - Working with Scanner
 - Using Random library
-- Writing to file (FileReader)
-- Reading from file (FileWriter)
+- Writing to file (FileWriter)
+- Reading from file (FileReader)
 ------------------------------------
 
 **Data Bases:**
