@@ -25,11 +25,11 @@ _**Skills:**_
 - Tkinter
   
 ------------------------------------
-**Java libraries:**
-- Scanner
-- Random
-- FileReader
-- FileWriter
+**Java skills:**
+- Working with Scanner
+- Using Random library
+- Writing to file (FileReader)
+- Reading from file (FileWriter)
 ------------------------------------
 
 **Data Bases:**
