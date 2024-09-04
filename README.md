@@ -30,6 +30,8 @@ _**Skills:**_
 - Using Random library
 - Writing to file (FileWriter)
 - Reading from file (FileReader)
+- Serializating (io.Serializable, io.FileInputStream and io.ObjectInputStream)
+- Desializating (io.FileOutputStream, io.ObjectOutputStream)
 ------------------------------------
 
 **Data Bases:**
