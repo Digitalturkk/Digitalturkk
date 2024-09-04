@@ -32,6 +32,7 @@ _**Skills:**_
 - Reading from file (FileReader)
 - Serializating (io.Serializable, io.FileInputStream and io.ObjectInputStream)
 - Desializating (io.FileOutputStream, io.ObjectOutputStream)
+- Abstracting with "inteface"s
 ------------------------------------
 
 **Data Bases:**
