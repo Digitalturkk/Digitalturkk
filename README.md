@@ -13,6 +13,17 @@ Working with Java☕ and Python🐍
 
 _**Skills:**_
 ----------------------------
+**Java skills:**
+- Working with Scanner
+- Using Random library
+- Writing to file (FileWriter)
+- Reading from file (FileReader)
+- Serializating (io.Serializable, io.FileInputStream and io.ObjectInputStream)
+- Desializating (io.FileOutputStream, io.ObjectOutputStream)
+- Abstracting with "inteface"s
+- Generalize with generics and wildcards 
+  
+------------------------------------
 **Python libraries:**
 - Random
 - Math
@@ -23,17 +34,6 @@ _**Skills:**_
 - CSV
 - PyQt5
 - Tkinter
-  
-------------------------------------
-**Java skills:**
-- Working with Scanner
-- Using Random library
-- Writing to file (FileWriter)
-- Reading from file (FileReader)
-- Serializating (io.Serializable, io.FileInputStream and io.ObjectInputStream)
-- Desializating (io.FileOutputStream, io.ObjectOutputStream)
-- Abstracting with "inteface"s
-- Generalize with generics and wildcards 
 ------------------------------------
 
 **Data Bases:**
