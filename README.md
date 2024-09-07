@@ -21,7 +21,8 @@ _**Skills:**_
 - Serializating (io.Serializable, io.FileInputStream and io.ObjectInputStream)
 - Desializating (io.FileOutputStream, io.ObjectOutputStream)
 - Abstracting with "inteface"s
-- Generalize with generics and wildcards 
+- Generalize with generics and wildcards
+- Using collections with (util.Collections) framework 
   
 ------------------------------------
 **Python libraries:**
