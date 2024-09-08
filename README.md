@@ -22,7 +22,8 @@ _**Skills:**_
 - Desializating (io.FileOutputStream, io.ObjectOutputStream)
 - Abstracting with "inteface"s
 - Generalize with generics and wildcards
-- Using collections with (util.Collections) framework 
+- Using collections with (util.Collections) framework
+- Working with Regular Expressions (util.regex.Matcher, util.regex.Pattern;)
   
 ------------------------------------
 **Python libraries:**
