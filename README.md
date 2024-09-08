@@ -24,7 +24,7 @@ _**Skills:**_
 - Generalize with generics and wildcards
 - Using collections with (util.Collections) framework
 - Working with Regular Expressions (util.regex.Matcher, util.regex.Pattern;)
-  
+  <!-- add threading -->
 ------------------------------------
 **Python libraries:**
 - Random
