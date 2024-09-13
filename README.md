@@ -25,6 +25,7 @@ _**Skills:**_
 - Using collections with (util.Collections) framework
 - Working with Regular Expressions (util.regex.Matcher, util.regex.Pattern;)
   <!-- add threading -->
+  <!--JUnit-->
 ---
 **Python libraries:**
 - Random
