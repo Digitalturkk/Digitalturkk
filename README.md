@@ -6,7 +6,7 @@ I’m interested in IT sphere at least for 6 years 👀
 
 I'm student at UNEC🏦
 
-<h1> Software Engineare </h1>
+<h1> Software Engineer </h1>
 
 <h2> <b> Skills: </b> </h2>
 
