@@ -35,15 +35,10 @@ I'm student at UNEC🏦
 
 ---
 **Python libraries:**
-- Random
-- Math
 - NumPy
 - Pandas
-- DateTime
 - Requests
-- CSV
 - PyQt5
-- Tkinter
 ---
 
 **Data Bases 💾:**
@@ -51,7 +46,7 @@ I'm student at UNEC🏦
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
-How to reach me? 📫  (studentfaridhuseynov@gmail.com)
+How to reach me? 📫  (huseynovfarid1111@gmail.com)
 <!---
 Digitalturkk/Digitalturkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
