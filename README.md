@@ -37,7 +37,6 @@ I'm student at UNEC🏦
 **Python libraries:**
 - NumPy
 - Pandas
-- Requests
 - PyQt5
 ---
 
