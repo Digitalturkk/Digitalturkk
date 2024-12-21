@@ -41,6 +41,8 @@ I'm student at UNEC🏦
 **Python libraries:**
 - NumPy
 - Pandas
+- SQLalchemy
+- Psycong2
 - PyQt5
 ---
 
