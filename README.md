@@ -21,6 +21,8 @@ I'm student at UNEC🏦
 
 **Back-end skills:**
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br />
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br />
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) <br />
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - Spring boot  
@@ -41,6 +43,7 @@ I'm student at UNEC🏦
 **Python libraries:**
 - NumPy
 - Pandas
+- Matplotlib
 - SQLalchemy
 - Psycong2
 - PyQt5
