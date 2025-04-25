@@ -4,7 +4,7 @@ Programming Instructor 👨‍🏫
 
 I’m interested in IT sphere at least for 7 years 👀 
 
-I'm student at UNEC🏦
+I'm student at UNEC 🏦
 
 <h1> Software Engineer </h1>
 
