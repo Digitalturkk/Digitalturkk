@@ -1,8 +1,8 @@
 <h2> Salam 👋, I’m @Digitalturkk </h2>
 
-Programming Instructor👨‍🏫
+Programming Instructor with 2 years expirience👨‍🏫
 
-I’m interested in IT sphere at least for 7 years👀 
+I’m interested in IT sphere at least for 8 years👀 
 
 I'm student at UNEC🏦
 
