@@ -65,7 +65,7 @@ I'm student at UNEC🏦
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
-How to reach me? 📫  (huseynovfarid1111@gmail.com)
+Want to reach me? 📫  (huseynovfarid1111@gmail.com)
 <!---
 Digitalturkk/Digitalturkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
