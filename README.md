@@ -4,8 +4,6 @@ Programming Instructor with 2 years expirience👨‍🏫
 
 I’m interested in IT sphere at least for 8 years👀 
 
-I'm student at UNEC🏦
-
 <h1> Software Engineer </h1>
 
 <h2> <b> Skills: </b> </h2>
