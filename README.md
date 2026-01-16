@@ -2,7 +2,7 @@
 
 Programming Instructor with 2 years expirience👨‍🏫
 
-I’m interested in IT sphere at least for 8 years👀 
+I’m interested in IT sphere at least for 9 years👀 
 
 <h1> Software Engineer </h1>
 
