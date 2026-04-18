@@ -4,7 +4,7 @@ Programming Instructor with 2 years expirience👨‍🏫
 
 I’m interested in IT sphere at least for 9 years👀 
 
-<h1> Software Engineer </h1>
+<h1> Software Engineer (ソフトウェアエンジニア) </h1>
 
 <h2> <b> Skills: </b> </h2>
 
