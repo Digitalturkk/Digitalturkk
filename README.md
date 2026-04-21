@@ -1,6 +1,6 @@
 <h2> Salam 👋, I’m @Digitalturkk </h2>
 
-Programming Instructor with 2 years expirience👨‍🏫
+Programming Instructor with 3 years expirience👨‍🏫
 
 I’m interested in IT sphere at least for 9 years👀 
 
