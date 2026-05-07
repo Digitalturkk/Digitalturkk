@@ -29,7 +29,9 @@ I’m interested in IT sphere at least for 9 years👀
 - Spring Boot  
 - Spring Data (JPA & Hibernate)
 - Spring Security
-- Spring MVC <br/>
+- Spring MVC
+- Spring Cloud
+- Spring AI <br/>
   <!--JUnit-->
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br/>
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) <br/>
