@@ -1,4 +1,4 @@
-<h2> Salam 👋, I’m @Digitalturkk </h2>
+<h2> Salam 👋, I’m Digital Samurai </h2>
 
 Programming Instructor with 3 years expirience👨‍🏫
 
