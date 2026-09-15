@@ -1,6 +1,6 @@
 <h2> Salam 👋, I’m Digital Samurai </h2>
 
-Programming Instructor with оver 3 years expirience👨‍🏫
+Programming Instructor with оver 3 years expirience 👨‍🏫
 
 I’m interested in IT sphere at least for 9 years👀 
 
